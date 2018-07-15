@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>lantu.jpg</file>
+        <file>0037037097582604_b.jpg</file>
+        <file>W020161108372947284642.jpg</file>
+        <file>timg.jpg</file>
+        <file>n.jpg</file>
+        <file>large.jpg</file>
+        <file>timg_看图王.jpg</file>
+        <file>12 - 副本.jpg</file>
+    </qresource>
+</RCC>
