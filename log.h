@@ -15,6 +15,9 @@ public:
     explicit log(QWidget *parent = 0);
     ~log();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::log *ui;
 };
